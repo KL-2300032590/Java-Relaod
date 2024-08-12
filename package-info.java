@@ -1,1 +1,1 @@
-package LLM;
+package SingletonPattern;
